@@ -1,6 +1,8 @@
 # balance_car
 基于FreeRTOS的STM32平衡小车
 
+V3.0以后为FreeRTOS版本，前面为裸机
+
 开发环境：cubemx+keil（HAL库）
 
 硬件使用：
